@@ -28,6 +28,11 @@ a {
     color: white;
 }
 
+.asdfg {
+    display: flex;
+    justify-content: center;
+}
+
 .c {
     background-color: pink;
     color: black;
