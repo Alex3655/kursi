@@ -119,3 +119,8 @@ header {
     top: 48px;
     color: white;
 }
+
+.asdfg {
+    display: flex;
+    justify-content: center;
+}
